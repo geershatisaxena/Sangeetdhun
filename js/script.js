@@ -991,7 +991,7 @@ const songs = [
         src: "assets/songs/Qayde.mp3",
         cover: "assets/images/Qayde.jpg"
     },
-      {
+    {
         title: "Qayde Se (My Version)",
         artist: "Geershati Saxena",
         src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha (1).mp3",
@@ -1002,6 +1002,24 @@ const songs = [
         artist: "Geershati Saxena",
         src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha.mp3",
         cover: "assets/images/gtwo.jpg"
+    },
+    {
+        title: "Tum Jo Kaho Toh....",
+        artist: "Salim-Sulaiman, Shaan, Shraddha Pandit",
+        src: "assets/songs/Agar.mp3",
+        cover: "assets/images/Agar.jpg"
+    },
+    {
+        title: "Beh Ja",
+        artist: "Shaan",
+        src: "assets/songs/Beh_Ja_Shaan.mp3",
+        cover: "assets/images/shaan.jfif"
+    },
+    {
+        title: "Rahe Na Rahe Hum",
+        artist: "Sachin-Jigar, Soumyadeep Sarkar, Amitabh Bhattacharya",
+        src: "assets/songs/rahena.mp3",
+        cover: "assets/images/rahena.jpg"
     }
 ];
 
