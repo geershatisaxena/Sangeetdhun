@@ -990,9 +990,19 @@ const songs = [
         artist: "Pritam, Papon, Amitabh Bhattacharya",
         src: "assets/songs/Qayde.mp3",
         cover: "assets/images/Qayde.jpg"
+    },
+      {
+        title: "Qayde Se (My Version)",
+        artist: "Geershati Saxena",
+        src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha (1).mp3",
+        cover: "assets/images/gone.jpg"
+    },
+ {
+        title: "Qayde Se (My Version-2)",
+        artist: "Geershati Saxena",
+        src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha.mp3",
+        cover: "assets/images/gtwo.jpg"
     }
-
-
 ];
 
 // DOM Elements
