@@ -997,17 +997,29 @@ const songs = [
         src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha (1).mp3",
         cover: "assets/images/gone.jpg"
     },
- {
+    {
         title: "Qayde Se (My Version-2)",
         artist: "Geershati Saxena",
         src: "assets/songs/Dil jala ke muskurane ki jo aadat hui ha.mp3",
         cover: "assets/images/gtwo.jpg"
     },
     {
+        title: "Haule Haule",
+        artist: "Salim-Sulaiman, Sukhwinder Singh",
+        src: "assets/songs/Haule Haule [128 Kbps]-(SongsPk.com.se).mp3",
+        cover: "assets/images/Haule.jpg"
+    },
+    {
         title: "Tum Jo Kaho Toh....",
         artist: "Salim-Sulaiman, Shaan, Shraddha Pandit",
         src: "assets/songs/Agar.mp3",
         cover: "assets/images/Agar.jpg"
+    },
+     {
+        title: "Phir Milenge Chalte Chalte",
+        artist: "Salim-Sulaiman, Sonu Nigam",
+        src: "assets/songs/Phir Milenge Chalte Chlate [128 Kbps]-(SongsPk.com.se).mp3",
+        cover: "assets/images/Phir milenge.jpg"
     },
     {
         title: "Beh Ja",
@@ -1016,10 +1028,34 @@ const songs = [
         cover: "assets/images/shaan.jfif"
     },
     {
+        title: "Tujh Mein Rab Dikhta Hai",
+        artist: "Salim-Sulaiman, Roop Kumar Rathod",
+        src: "assets/songs/Tujh Mein Rab  Tu Hi To Jannat Meri [128 Kbps]-(SongsPk.com.se).mp3",
+        cover: "assets/images/Rab Dikhta.jpg"
+    },
+    {
+        title: "Dance Pe Chance",
+        artist: "Salim-Sulaiman, Sunidhi Chauhan, Labh Janjua",
+        src: "assets/songs/Dance Pe Chance [128 Kbps]-(SongsPk.com.se).mp3",
+        cover: "assets/images/Dance.jpg"
+    },
+    {
         title: "Rahe Na Rahe Hum",
         artist: "Sachin-Jigar, Soumyadeep Sarkar, Amitabh Bhattacharya",
         src: "assets/songs/rahena.mp3",
         cover: "assets/images/rahena.jpg"
+    },
+    {
+        title: "Imagine Dragons",
+        artist: "Bones",
+        src: "assets/songs/Bones-(Mr-Jat.in).mp3",
+        cover: "assets/images/boys.jpg"
+    },
+    {
+        title: "Ek Tu Hi Yaar Mera",
+        artist: "Rochak Kohli, Arijit Singh, Neha Kakkar",
+        src: "assets/songs/Tu Hi Yaar Mera (Pati Patni Aur Woh) [128 Kbps]-(SongsPk.com.se).mp3",
+        cover: "assets/images/yaar mera.jpg"
     }
 ];
 
