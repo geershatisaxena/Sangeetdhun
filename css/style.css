@@ -24,13 +24,13 @@ html {
 
 :root {
     /* Core Colors */
-    --primary-color: #4a90e2;
-    --secondary-color: #50c878;
-    --accent-color: #ff69b4;
+    --primary-color: #4361ee;
+    --secondary-color: #3f37c9;
+    --accent-color: #4895ef;
     
     /* Light Theme */
-    --background-color: #ffffff;
-    --container-bg: #fdffff;
+    --background-color: #f8f9fa;
+    --container-bg: #ffffff;
     --text-color: #2d3436;
     --text-color-strong: #1a1a1a;
     --title-gradient: linear-gradient(135deg, #ff0101, #dde110);
@@ -320,15 +320,17 @@ body {
 .music-container {
     background-color: var(--container-bg);
     border-radius: var(--border-radius-lg);
-    box-shadow: var(--shadow-lg);
+    box-shadow: var(--shadow-md);
     display: flex;
     flex-direction: column;
     padding: 2rem;
     position: relative;
-    margin: 80px auto 2rem;
+    margin: 80px auto 4rem;
     z-index: 10;
-    width: min(90%, 1200px);
+    width: min(95%, 1400px);
     transition: var(--transition-normal);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .music-visualizer {

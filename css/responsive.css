@@ -64,6 +64,14 @@
     justify-content: center;
     gap: 1rem;
   }
+  
+  .progress-section {
+    padding: 0.8rem;
+  }
+  
+  .progress-container {
+    padding: 0 1rem;
+  }
 
   .music-container {
     padding: 0.5rem;
