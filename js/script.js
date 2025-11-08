@@ -1052,6 +1052,12 @@ const songs = [
         cover: "assets/images/boys.jpg"
     },
     {
+        title: "Taras Nahi Aya Tujhko",
+        artist: "Sachin-Jigar, Jasmine Sandlas",
+        src: "assets/songs/Taras.mp3",
+        cover: "assets/images/taras.jpg"
+    },
+    {
         title: "Ek Tu Hi Yaar Mera",
         artist: "Rochak Kohli, Arijit Singh, Neha Kakkar",
         src: "assets/songs/Tu Hi Yaar Mera (Pati Patni Aur Woh) [128 Kbps]-(SongsPk.com.se).mp3",
