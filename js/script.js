@@ -1052,16 +1052,34 @@ const songs = [
         cover: "assets/images/boys.jpg"
     },
     {
+        title: "Tum Se Hi",
+        artist: "Mohit Chauhan, Pritam Chakraborty, Irshad Kamil, DJ SUNIL",
+        src: "assets/songs/Tum Se Hi Jab We Met 128 Kbps.mp3",
+        cover: "assets/images/tumsehi.jpg"
+    },
+    {
         title: "Taras Nahi Aya Tujhko",
         artist: "Sachin-Jigar, Jasmine Sandlas",
         src: "assets/songs/Taras.mp3",
         cover: "assets/images/taras.jpg"
+    },
+   {
+        title: "Aaoge Jab Tum",
+        artist: "Rashid Khan, Irshad Kamil, Sandesh Sandilya",
+        src: "assets/songs/Aaoge Jab Tum Jab We Met 128 Kbps.mp3",
+        cover: "assets/images/aaogejab.jpg"
     },
     {
         title: "Ek Tu Hi Yaar Mera",
         artist: "Rochak Kohli, Arijit Singh, Neha Kakkar",
         src: "assets/songs/Tu Hi Yaar Mera (Pati Patni Aur Woh) [128 Kbps]-(SongsPk.com.se).mp3",
         cover: "assets/images/yaar mera.jpg"
+    },
+     {
+        title: "Rab Ne Bana Di Jodi Musical",
+        artist: "Salim-Sulaiman",
+        src: "assets/songs/Dancing Jodi Rab Ne Bana Di Jodi 128 Kbps.mp3",
+        cover: "assets/images/Rab-Ne-Bana-Di-Jodi-Hindi-2008-500x500.jpg"
     }
 ];
 
