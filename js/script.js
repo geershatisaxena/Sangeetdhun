@@ -105,6 +105,12 @@ const songs = [
         cover:"assets/images/ganeshji.jfif"
     },
     {
+        title:"Siya Ram",
+        artist:"Raaj Ashoo, Jubin Nautiyal, Jaya Kishori",
+        src:"assets/songs/Siya Ram (PenduJatt.Com.Se).mp3",
+        cover:"assets/images/ramji.jpg"
+    },
+    {
         title:"Tune jo Na Kaha",
         artist:"Mohit Chauhan",
         src:"assets/songs/Tune Jo Na Kaha(KoshalWorld.Com).mp3",
